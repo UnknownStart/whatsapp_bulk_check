@@ -4,7 +4,7 @@ Check links for WhatsApp groups in bulk.
 
 This Python script is designed to automate the verification of WhatsApp links in bulk. It utilizes multiple threads to concurrently process multiple URLs, checks for the existence of a specific element on each webpage, and presents the results in the console while saving them to a specified output file.
 
-## Prerequisites
+## Prerequisites:
 
 Make sure to have the following libraries installed before running the script:
 
